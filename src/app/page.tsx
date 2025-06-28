@@ -135,11 +135,11 @@ const PythonCommunityLauncher = () => {
                 animate={{ opacity: 1, transition: { delay: 0.8 } }}
                 className="text-xl text-slate-300 mb-8 leading-relaxed"
               >
-                ───────────────────────────────────────────────
+               
                 With great honour, I declare the Python Community Katsina officially launched today.
                 May this community inspire learning, innovation, and collaboration among all who join.
                 Thank you.
-                ───────────────────────────────────────────────
+               
               </motion.p>
               
               <motion.div
