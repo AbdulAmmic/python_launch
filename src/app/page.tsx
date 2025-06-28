@@ -167,7 +167,7 @@ const PythonCommunityLauncher = () => {
                   >
                     <FaPython className="text-3xl" />
                   </motion.div>
-                  EXPLORE PROGRAMS
+                  Launch PCK!
                 </motion.button>
               </motion.div>
             </motion.div>
